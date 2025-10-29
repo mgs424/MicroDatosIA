@@ -1,4 +1,4 @@
-# MicroDatosIA - Microcredencial en Programación Orientada a la Ciencia de Datos e IA
+# MicroDatosIA - Microcredencial en IA con Python para Ciencia y Tecnología (I & II)
 
 ## 📚 Resumen del Programa
 
@@ -13,6 +13,11 @@ Este repositorio contiene el material completo para la **Microcredencial en Prog
 - **Resolución de problemas de ingeniería** - Aplicación práctica de herramientas de datos
 
 ## 📖 Estructura del Curso
+
+### 00-raw-data/
+**Datos crudos para explorar**
+- Datasets de diferentes dominios de ingeniería
+- Aplicaciones prácticas de los conceptos aprendidos
 
 ### 01-fundamentals/
 **Fundamentos de Python**
@@ -34,40 +39,25 @@ Este repositorio contiene el material completo para la **Microcredencial en Prog
 
 ### 04-data-analysis/
 **Análisis de Datos**
-- **har-activity-recognition/**: Reconocimiento de actividades humanas con sensores
 - **covid-analysis/**: Análisis de datos de COVID-19
-- **sensor-data/**: Procesamiento de datos de sensores
-
-### 05-projects/
-**Proyectos Integradores**
-- Casos de estudio reales
-- Datasets de diferentes dominios de ingeniería
-- Aplicaciones prácticas de los conceptos aprendidos
+- **har-activity-recognition/**: Reconocimiento de actividades humanas con sensores
 
 ## 🚀 Cómo Empezar
 
 1. **Prerrequisitos**: Conocimientos básicos de matemáticas y lógica
-2. **Configuración**: Instalar Python 3.8+ y Jupyter Notebook
-3. **Orden recomendado**: Seguir la numeración de las carpetas (01 → 02 → 03 → 04 → 05)
+2. **Configuración**: Instalar Python 3.11+ y Jupyter Notebook
+3. **Orden recomendado**: Seguir la numeración de las carpetas (01 → 02 → 03 → 04 → etc)
 4. **Cada módulo** contiene su propio README con instrucciones específicas
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Python 3.8+**
+- **Python 3.11+**
 - **Jupyter Notebook**
 - **Pandas** - Manipulación de datos
 - **Matplotlib/Seaborn** - Visualización
 - **NumPy** - Computación numérica
 - **Scikit-learn** - Machine Learning
 - **Visual Studio Code** - Entorno de desarrollo
-
-## 📊 Datasets Incluidos
-
-- Datos de sensores de acelerómetro y giroscopio
-- Datos de reconocimiento de actividades humanas
-- Datos de casos de COVID-19
-- Datos de sensores de vibración
-- Datos GPS y de infiltración
 
 ## 🎓 Objetivos de Aprendizaje
 
