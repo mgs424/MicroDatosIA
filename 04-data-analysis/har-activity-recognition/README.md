@@ -64,7 +64,3 @@ La carpeta `data/heterogeneity+activity+recognition/` contiene:
 - **Datos de series temporales**
 - **Filtrado y segmentación de datos**
 - **Visualización de distribuciones**
-
-## 🔗 Siguiente Módulo
-
-Una vez completado este módulo, explora otros análisis en [covid-analysis](../covid-analysis/README.md) o [sensor-data](../sensor-data/README.md).
