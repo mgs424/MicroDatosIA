@@ -1,0 +1,5 @@
+Coastal Data System - Waves (Mooloolaba) 01-2017 to 06 - 2019.csv
+
+Wave monitoring buoys are used for collecting the data. Wave monitoring buoys continuously measures the wave height, wave period and wave direction.
+As the wave monitoring buoy floats up and down each passing wave, its motion is measured and electronically processed. Data from the wave monitoring buoys are transmitted to a nearby receiver station as a radio signal.
+Measured and derived wave data in this study is collected by oceanographic wave measuring buoys anchored at Mooloolaba/Queensland/Australia.
